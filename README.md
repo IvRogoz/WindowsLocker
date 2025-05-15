@@ -1,5 +1,6 @@
 # WindowsLocker
 A simple app the lists available windows and lets you disable mouse input for them. 
+
 I use it to lock the input for media players at partys to stop people changing playlists. 
 ---
 
